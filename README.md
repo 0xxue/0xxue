@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tan Pengfei</h1>
+<h1 align="center">Hi, I'm 0xxuebao</h1>
 <h3 align="center">Full-Stack Developer | AI & Web3</h3>
 
 <p align="center">
@@ -58,8 +58,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xxue&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xxue&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/0xxue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xxue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  </a>
+  <a href="https://github.com/0xxue">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xxue&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  </a>
 </p>
 
 <p align="center">
