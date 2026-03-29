@@ -46,15 +46,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Clawford Admin</h3>
+      <h3 align="center">Alpha Trade Toolkit</h3>
       <p align="center">
-        <a href="https://github.com/0xxue/Clawford-admin">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=Clawford-admin&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/0xxue/alpha-trade-toolkit">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=alpha-trade-toolkit&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
-        Bot Management UI<br/>
-        <sub>Scene Editor | Message History | Alert Config | Usage Stats</sub>
+        Crypto Trading Scripts<br/>
+        <sub>Automated Trading | Market Analysis | Strategy Tools</sub>
       </p>
     </td>
     <td width="50%">
