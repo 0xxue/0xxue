@@ -49,7 +49,7 @@
       <h3 align="center">Predict Market Aggregator</h3>
       <p align="center">
         <a href="https://github.com/0xxue/predict-market-aggregator">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=predict-market-aggregator&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=predict&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -61,7 +61,7 @@
       <h3 align="center">Multisig Wallet System</h3>
       <p align="center">
         <a href="https://github.com/0xxue/multisig-wallet-system">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=multisig-wallet-system&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=multisig-demo&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
