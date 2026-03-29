@@ -1,59 +1,118 @@
-<h1 align="center">Hi, I'm 0xxuebao</h1>
-<h3 align="center">Full-Stack Developer | AI & Web3</h3>
+<h1 align="center">Hi, I'm 0xxue</h1>
+<h3 align="center">AI Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+%2B+Node.js+%2B+Python;AI+Application+Developer;Web3+%26+Smart+Contract;Building+cool+stuff+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=LangGraph+%2B+RAG+%2B+3D+Bot+Engine;React+19+%2B+FastAPI+%2B+PostgreSQL;Building+AI+systems+that+actually+work" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### Featured Projects
 
-- Full-Stack Developer with 1+ years of production experience
-- Building AI-powered applications, SaaS platforms, and Web3 systems
-- Experienced in deploying smart contracts to mainnet (BSC)
-- Early adopter of AI-assisted development (Claude Code, ChatGPT, Cursor)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">NexusAI</h3>
+      <p align="center">
+        <a href="https://github.com/0xxue/nexus-ai">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=nexus-ai&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        Enterprise AI Intelligence System<br/>
+        <strong>LangGraph 11-Node RAG + Multi-turn + Knowledge Base</strong><br/>
+        <sub>FastAPI | React 19 | pgvector | LiteLLM | 90 tests | CI/CD</sub>
+      </p>
+      <p align="center">
+        <a href="https://demo-mu-jade.vercel.app/indexv2.html">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Clawford</h3>
+      <p align="center">
+        <a href="https://github.com/0xxue/Clawford">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=Clawford&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        3D AI Bot Engine (npm package)<br/>
+        <strong>VRM Avatar + 14 Tools + Voice + Plugin System</strong><br/>
+        <sub>Three.js | WebSocket | Edge TTS | BotPlugin Interface</sub>
+      </p>
+      <p align="center">
+        <a href="https://demo-mu-jade.vercel.app/indexv2.html">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Predict Market Aggregator</h3>
+      <p align="center">
+        <a href="https://github.com/0xxue/predict-market-aggregator">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=predict-market-aggregator&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        10-Microservice Data Platform<br/>
+        <sub>Circuit Breaker | Tracing | Rate Limiter | Docker 12 Services</sub>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Multisig Wallet System</h3>
+      <p align="center">
+        <a href="https://github.com/0xxue/multisig-wallet-system">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=multisig-wallet-system&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        Enterprise Fund Management<br/>
+        <sub>2/3 Multisig | HD Wallet | Solidity | BSC Mainnet</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Tech Stack
 
+**AI / LLM**
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-FF6B6B?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Edge TTS](https://img.shields.io/badge/-Edge_TTS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Database & Cache**
+**Database**
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**AI & Web3**
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-**DevOps**
+**DevOps & Web3**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 ---
 
