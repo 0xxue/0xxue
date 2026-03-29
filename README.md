@@ -46,22 +46,22 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Predict Market Aggregator</h3>
+      <h3 align="center">Clawford Admin</h3>
       <p align="center">
-        <a href="https://github.com/0xxue/predict-market-aggregator">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=predict&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/0xxue/Clawford-admin">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=Clawford-admin&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
-        10-Microservice Data Platform<br/>
-        <sub>Circuit Breaker | Tracing | Rate Limiter | Docker 12 Services</sub>
+        Bot Management UI<br/>
+        <sub>Scene Editor | Message History | Alert Config | Usage Stats</sub>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Multisig Wallet System</h3>
+      <h3 align="center">Web3 Fullstack Template</h3>
       <p align="center">
-        <a href="https://github.com/0xxue/multisig-wallet-system">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=multisig-demo&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/0xxue/web3-fullstack-template">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xxue&repo=web3-fullstack-template&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
